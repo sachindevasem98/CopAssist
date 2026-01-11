@@ -1,0 +1,359 @@
+section_id,act_name,section_number,title,description
+10001,Bharatiya Nyaya Sanhita,1,"Short title, commencement and application.",PRELIMINARY
+10002,Bharatiya Nyaya Sanhita,2,Definitions.,PRELIMINARY
+10003,Bharatiya Nyaya Sanhita,3,General explanations.,PRELIMINARY
+10004,Bharatiya Nyaya Sanhita,4,Punishments.,OF PUNISHMENTS
+10005,Bharatiya Nyaya Sanhita,5,Commutation of sentence.,OF PUNISHMENTS
+10006,Bharatiya Nyaya Sanhita,6,Fractions of terms of punishment.,OF PUNISHMENTS
+10007,Bharatiya Nyaya Sanhita,7,Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.,OF PUNISHMENTS
+10008,Bharatiya Nyaya Sanhita,8,"Amount of fine, liability in default of payment of fine, etc.",OF PUNISHMENTS
+10009,Bharatiya Nyaya Sanhita,9,Limit of punishment of offence made up of several offences.,OF PUNISHMENTS
+10010,Bharatiya Nyaya Sanhita,10,"Punishment of person guilty of one of several offences, judgment stating that it is doubtful of",OF PUNISHMENTS
+10011,Bharatiya Nyaya Sanhita,11,Solitary confinement.,OF PUNISHMENTS
+10012,Bharatiya Nyaya Sanhita,12,Limit of solitary confinement.,OF PUNISHMENTS
+10013,Bharatiya Nyaya Sanhita,13,Enhanced punishment for certain offences after previous conviction.,OF PUNISHMENTS
+10014,Bharatiya Nyaya Sanhita,14,"Act done by a person bound, or by mistake of fact believing himself bound, by law.",GENERAL EXCEPTIONS
+10015,Bharatiya Nyaya Sanhita,15,Act of Judge when acting judicially.,GENERAL EXCEPTIONS
+10016,Bharatiya Nyaya Sanhita,16,Act done pursuant to judgment or order of Court.,GENERAL EXCEPTIONS
+10017,Bharatiya Nyaya Sanhita,17,"Act done by a person justified, or by mistake of fact believing himself justified, by law.",GENERAL EXCEPTIONS
+10018,Bharatiya Nyaya Sanhita,18,Accident in doing a lawful act.,GENERAL EXCEPTIONS
+10019,Bharatiya Nyaya Sanhita,19,"Act likely to cause harm, but done without criminal intent, and to prevent other harm.",GENERAL EXCEPTIONS
+10020,Bharatiya Nyaya Sanhita,20,Act of a child under seven years of age.,GENERAL EXCEPTIONS
+10021,Bharatiya Nyaya Sanhita,21,Act of a child above seven and under twelve years of age of immature understanding.,GENERAL EXCEPTIONS
+10022,Bharatiya Nyaya Sanhita,22,Act of a person of unsound mind.,GENERAL EXCEPTIONS
+10023,Bharatiya Nyaya Sanhita,23,Act of a person incapable of judgment by reason of intoxication caused against his will.,GENERAL EXCEPTIONS
+10024,Bharatiya Nyaya Sanhita,24,Offence requiring a particular intent or knowledge committed by one who is intoxicated.,GENERAL EXCEPTIONS
+10025,Bharatiya Nyaya Sanhita,25,"Act not intended and not known to be likely to cause death or grievous hurt, done by consent.",GENERAL EXCEPTIONS
+10026,Bharatiya Nyaya Sanhita,26,"Act not intended to cause death, done by consent in good faith for person's benefit.",GENERAL EXCEPTIONS
+10027,Bharatiya Nyaya Sanhita,27,"Act done in good faith for benefit of child or person of unsound mind, by, or by consent of",GENERAL EXCEPTIONS
+10028,Bharatiya Nyaya Sanhita,28,Consent known to be given under fear or misconception.,GENERAL EXCEPTIONS
+10029,Bharatiya Nyaya Sanhita,29,Exclusion of acts which are offences independently of harm caused.,GENERAL EXCEPTIONS
+10030,Bharatiya Nyaya Sanhita,30,Act done in good faith for benefit of a person without consent.,GENERAL EXCEPTIONS
+10031,Bharatiya Nyaya Sanhita,31,Communication made in good faith.,GENERAL EXCEPTIONS
+10032,Bharatiya Nyaya Sanhita,32,Act to which a person is compelled by threats.,GENERAL EXCEPTIONS
+10033,Bharatiya Nyaya Sanhita,33,Act causing slight harm.,GENERAL EXCEPTIONS
+10034,Bharatiya Nyaya Sanhita,34,Things done in private defence.,GENERAL EXCEPTIONS : Of right of private defence
+10035,Bharatiya Nyaya Sanhita,35,Right of private defence of body and of property.,GENERAL EXCEPTIONS : Of right of private defence
+10036,Bharatiya Nyaya Sanhita,36,"Right of private defence against act of a person of unsound mind, etc.",GENERAL EXCEPTIONS : Of right of private defence
+10037,Bharatiya Nyaya Sanhita,37,Acts against which there is no right of private defence.,GENERAL EXCEPTIONS : Of right of private defence
+10038,Bharatiya Nyaya Sanhita,38,When right of private defence of body extends to causing death.,GENERAL EXCEPTIONS : Of right of private defence
+10039,Bharatiya Nyaya Sanhita,39,When such right extends to causing any harm other than death.,GENERAL EXCEPTIONS : Of right of private defence
+10040,Bharatiya Nyaya Sanhita,40,Commencement and continuance of right of private defence of body.,GENERAL EXCEPTIONS : Of right of private defence
+10041,Bharatiya Nyaya Sanhita,41,When right of private defence of property extends to causing death.,GENERAL EXCEPTIONS : Of right of private defence
+10042,Bharatiya Nyaya Sanhita,42,When such right extends to causing any harm other than death.,GENERAL EXCEPTIONS : Of right of private defence
+10043,Bharatiya Nyaya Sanhita,43,Commencement and continuance of right of private defence of property.,GENERAL EXCEPTIONS : Of right of private defence
+10044,Bharatiya Nyaya Sanhita,44,Right of private defence against deadly assault when there is risk of harm to innocent person.,GENERAL EXCEPTIONS : Of right of private defence
+10045,Bharatiya Nyaya Sanhita,45,Abetment of a thing.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10046,Bharatiya Nyaya Sanhita,46,Abettor.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10047,Bharatiya Nyaya Sanhita,47,Abetment in India of offences outside India.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10048,Bharatiya Nyaya Sanhita,48,Abetment outside India for offence in India.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10049,Bharatiya Nyaya Sanhita,49,Punishment of abetment if act abetted is committed in consequence and where no express,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10050,Bharatiya Nyaya Sanhita,50,Punishment of abetment if person abetted does act with different intention from that of abettor.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10051,Bharatiya Nyaya Sanhita,51,Liability of abettor when one act abetted and different act done.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10052,Bharatiya Nyaya Sanhita,52,Abettor when liable to cumulative punishment for act abetted and for act done.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10053,Bharatiya Nyaya Sanhita,53,Liability of abettor for an effect caused by act abetted different from that intended by abettor.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10054,Bharatiya Nyaya Sanhita,54,Abettor present when offence is committed.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10055,Bharatiya Nyaya Sanhita,55,Abetment of offence punishable with death or imprisonment for life.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10056,Bharatiya Nyaya Sanhita,56,Abetment of offence punishable with imprisonment.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10057,Bharatiya Nyaya Sanhita,57,Abetting commission of offence by public or by more than ten persons.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10058,Bharatiya Nyaya Sanhita,58,Concealing design to commit offence punishable with death or imprisonment for life.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10059,Bharatiya Nyaya Sanhita,59,Public servant concealing design to commit offence which it is his duty to prevent.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10060,Bharatiya Nyaya Sanhita,60,Concealing design to commit offence punishable with imprisonment.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : of abetment"
+10061,Bharatiya Nyaya Sanhita,61,Criminal conspiracy.,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : Of criminal conspiracy"
+10062,Bharatiya Nyaya Sanhita,62,Punishment for attempting to commit offences punishable with imprisonment for life or other,"OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT : Of attempt"
+10063,Bharatiya Nyaya Sanhita,63,Rape.,OF OFFENCES AGAINST WOMAN AND CHILD : Of sexual offences
+10064,Bharatiya Nyaya Sanhita,64,Punishment for rape.,OF OFFENCES AGAINST WOMAN AND CHILD : Of sexual offences
+10065,Bharatiya Nyaya Sanhita,65,Punishment for rape in certain cases.,OF OFFENCES AGAINST WOMAN AND CHILD : Of sexual offences
+10066,Bharatiya Nyaya Sanhita,66,Punishment for causing death or resulting in persistent vegetative state of victim.,OF OFFENCES AGAINST WOMAN AND CHILD : Of sexual offences
+10067,Bharatiya Nyaya Sanhita,67,Sexual intercourse by husband upon his wife during separation.,OF OFFENCES AGAINST WOMAN AND CHILD : Of sexual offences
+10068,Bharatiya Nyaya Sanhita,68,Sexual intercourse by a person in authority.,OF OFFENCES AGAINST WOMAN AND CHILD : Of sexual offences
+10069,Bharatiya Nyaya Sanhita,69,"Sexual intercourse by employing deceitful means, etc.",OF OFFENCES AGAINST WOMAN AND CHILD : Of sexual offences
+10070,Bharatiya Nyaya Sanhita,70,Gang rape.,OF OFFENCES AGAINST WOMAN AND CHILD : Of sexual offences
+10071,Bharatiya Nyaya Sanhita,71,Punishment for repeat offenders.,OF OFFENCES AGAINST WOMAN AND CHILD : Of sexual offences
+10072,Bharatiya Nyaya Sanhita,72,"Disclosure of identity of victim of certain offences, etc.",OF OFFENCES AGAINST WOMAN AND CHILD : Of sexual offences
+10073,Bharatiya Nyaya Sanhita,73,Printing or publishing any matter relating to Court proceedings without permission.,OF OFFENCES AGAINST WOMAN AND CHILD : Of sexual offences
+10074,Bharatiya Nyaya Sanhita,74,Assault or use of criminal force to woman with intent to outrage her modesty.,OF OFFENCES AGAINST WOMAN AND CHILD : Of criminal force and assault against woman
+10075,Bharatiya Nyaya Sanhita,75,Sexual harassment.,OF OFFENCES AGAINST WOMAN AND CHILD : Of criminal force and assault against woman
+10076,Bharatiya Nyaya Sanhita,76,Assault or use of criminal force to woman with intent to disrobe.,OF OFFENCES AGAINST WOMAN AND CHILD : Of criminal force and assault against woman
+10077,Bharatiya Nyaya Sanhita,77,Voyeurism.,OF OFFENCES AGAINST WOMAN AND CHILD : Of criminal force and assault against woman
+10078,Bharatiya Nyaya Sanhita,78,Stalking.,OF OFFENCES AGAINST WOMAN AND CHILD : Of criminal force and assault against woman
+10079,Bharatiya Nyaya Sanhita,79,"Word, gesture or act intended to insult modesty of a woman.",OF OFFENCES AGAINST WOMAN AND CHILD : Of criminal force and assault against woman
+10080,Bharatiya Nyaya Sanhita,80,Dowry death.,OF OFFENCES AGAINST WOMAN AND CHILD : Of offences relating to marriage
+10081,Bharatiya Nyaya Sanhita,81,Cohabitation caused by man deceitfully inducing belief of lawful marriage.,OF OFFENCES AGAINST WOMAN AND CHILD : Of offences relating to marriage
+10082,Bharatiya Nyaya Sanhita,82,Marrying again during lifetime of husband or wife.,OF OFFENCES AGAINST WOMAN AND CHILD : Of offences relating to marriage
+10083,Bharatiya Nyaya Sanhita,83,Marriage ceremony fraudulently gone through without lawful marriage.,OF OFFENCES AGAINST WOMAN AND CHILD : Of offences relating to marriage
+10084,Bharatiya Nyaya Sanhita,84,Enticing or taking away or detaining with criminal intent a married woman.,OF OFFENCES AGAINST WOMAN AND CHILD : Of offences relating to marriage
+10085,Bharatiya Nyaya Sanhita,85,Husband or relative of husband of a woman subjecting her to cruelty.,OF OFFENCES AGAINST WOMAN AND CHILD : Of offences relating to marriage
+10086,Bharatiya Nyaya Sanhita,86,Cruelty defined.,OF OFFENCES AGAINST WOMAN AND CHILD : Of offences relating to marriage
+10087,Bharatiya Nyaya Sanhita,87,"Kidnapping, abducting or inducing woman to compel her marriage, etc.",OF OFFENCES AGAINST WOMAN AND CHILD : Of offences relating to marriage
+10088,Bharatiya Nyaya Sanhita,88,Causing miscarriage.,"OF OFFENCES AGAINST WOMAN AND CHILD : Of causing miscarriage, etc."
+10089,Bharatiya Nyaya Sanhita,89,Causing miscarriage without woman's consent.,"OF OFFENCES AGAINST WOMAN AND CHILD : Of causing miscarriage, etc."
+10090,Bharatiya Nyaya Sanhita,90,Death caused by act done with intent to cause miscarriage.,"OF OFFENCES AGAINST WOMAN AND CHILD : Of causing miscarriage, etc."
+10091,Bharatiya Nyaya Sanhita,91,Act done with intent to prevent child being born alive or to cause to die after birth.,"OF OFFENCES AGAINST WOMAN AND CHILD : Of causing miscarriage, etc."
+10092,Bharatiya Nyaya Sanhita,92,Causing death of quick unborn child by act amounting to culpable homicide.,"OF OFFENCES AGAINST WOMAN AND CHILD : Of causing miscarriage, etc."
+10093,Bharatiya Nyaya Sanhita,93,"Exposure and abandonment of child under twelve years of age, by parent or person having care",OF OFFENCES AGAINST WOMAN AND CHILD : Of offences against child
+10094,Bharatiya Nyaya Sanhita,94,Concealment of birth by secret disposal of dead body.,OF OFFENCES AGAINST WOMAN AND CHILD : Of offences against child
+10095,Bharatiya Nyaya Sanhita,95,"Hiring, employing or engaging a child to commit an offence.",OF OFFENCES AGAINST WOMAN AND CHILD : Of offences against child
+10096,Bharatiya Nyaya Sanhita,96,Procuration of child.,OF OFFENCES AGAINST WOMAN AND CHILD : Of offences against child
+10097,Bharatiya Nyaya Sanhita,97,Kidnapping or abducting child under ten years of age with intent to steal from its person.,OF OFFENCES AGAINST WOMAN AND CHILD : Of offences against child
+10098,Bharatiya Nyaya Sanhita,98,"Selling child for purposes of prostitution, etc.",OF OFFENCES AGAINST WOMAN AND CHILD : Of offences against child
+10099,Bharatiya Nyaya Sanhita,99,"Buying child for purposes of prostitution, etc.",OF OFFENCES AGAINST WOMAN AND CHILD : Of offences against child
+10100,Bharatiya Nyaya Sanhita,100,Culpable homicide.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10101,Bharatiya Nyaya Sanhita,101,Murder.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10102,Bharatiya Nyaya Sanhita,102,Culpable homicide by causing death of person other than person whose death was intended.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10103,Bharatiya Nyaya Sanhita,103,Punishment for murder.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10104,Bharatiya Nyaya Sanhita,104,Punishment for murder by life -convict.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10105,Bharatiya Nyaya Sanhita,105,Punishment for culpable homicide not amounting to murder.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10106,Bharatiya Nyaya Sanhita,106,Causing death by negligence.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10107,Bharatiya Nyaya Sanhita,107,Abetment of suicide of child or person of unsound mind.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10108,Bharatiya Nyaya Sanhita,108,Abetment of suicide.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10109,Bharatiya Nyaya Sanhita,109,Attempt to murder.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10110,Bharatiya Nyaya Sanhita,110,Attempt to commit culpable homicide.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10111,Bharatiya Nyaya Sanhita,111,Organised crime.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10112,Bharatiya Nyaya Sanhita,112,Petty organised crime.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10113,Bharatiya Nyaya Sanhita,113,Terrorist act.,OF OFFENCES AFFECTING THE HUMAN BODY : Of offences affecting life
+10114,Bharatiya Nyaya Sanhita,114,Hurt.,OF OFFENCES AFFECTING THE HUMAN BODY : Of hurt
+10115,Bharatiya Nyaya Sanhita,115,Voluntarily causing hurt.,OF OFFENCES AFFECTING THE HUMAN BODY : Of hurt
+10116,Bharatiya Nyaya Sanhita,116,Grievous hurt.,OF OFFENCES AFFECTING THE HUMAN BODY : Of hurt
+10117,Bharatiya Nyaya Sanhita,117,Voluntarily causing grievous hurt.,OF OFFENCES AFFECTING THE HUMAN BODY : Of hurt
+10118,Bharatiya Nyaya Sanhita,118,Voluntarily causing hurt or grievous hurt by dangerous weapons or means.,OF OFFENCES AFFECTING THE HUMAN BODY : Of hurt
+10119,Bharatiya Nyaya Sanhita,119,"Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act.",OF OFFENCES AFFECTING THE HUMAN BODY : Of hurt
+10120,Bharatiya Nyaya Sanhita,120,"Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of",OF OFFENCES AFFECTING THE HUMAN BODY : Of hurt
+10121,Bharatiya Nyaya Sanhita,121,Voluntarily causing hurt or grievous hurt to deter public servant from his duty.,OF OFFENCES AFFECTING THE HUMAN BODY : Of hurt
+10122,Bharatiya Nyaya Sanhita,122,Voluntarily causing hurt or grievous hurt on provocation.,OF OFFENCES AFFECTING THE HUMAN BODY : Of hurt
+10123,Bharatiya Nyaya Sanhita,123,"Causing hurt by means of poison, etc., with intent to commit an offence.",OF OFFENCES AFFECTING THE HUMAN BODY : Of hurt
+10124,Bharatiya Nyaya Sanhita,124,"Voluntarily causing grievous hurt by use of acid, etc.",OF OFFENCES AFFECTING THE HUMAN BODY : Of hurt
+10125,Bharatiya Nyaya Sanhita,125,Act endangering life or personal safety of others.,OF OFFENCES AFFECTING THE HUMAN BODY : Of hurt
+10126,Bharatiya Nyaya Sanhita,126,Wrongful restraint.,OF OFFENCES AFFECTING THE HUMAN BODY : Of wrongful restraint and wrongful confinement
+10127,Bharatiya Nyaya Sanhita,127,Wrongful confinement.,OF OFFENCES AFFECTING THE HUMAN BODY : Of wrongful restraint and wrongful confinement
+10128,Bharatiya Nyaya Sanhita,128,Force.,OF OFFENCES AFFECTING THE HUMAN BODY : Of criminal force and assault
+10129,Bharatiya Nyaya Sanhita,129,Criminal force.,OF OFFENCES AFFECTING THE HUMAN BODY : Of criminal force and assault
+10130,Bharatiya Nyaya Sanhita,130,Assault.,OF OFFENCES AFFECTING THE HUMAN BODY : Of criminal force and assault
+10131,Bharatiya Nyaya Sanhita,131,Punishment for assault or criminal force otherwise than on grave provocation.,OF OFFENCES AFFECTING THE HUMAN BODY : Of criminal force and assault
+10132,Bharatiya Nyaya Sanhita,132,Assault or criminal force to deter public servant from discharge of his duty.,OF OFFENCES AFFECTING THE HUMAN BODY : Of criminal force and assault
+10133,Bharatiya Nyaya Sanhita,133,"Assault or criminal force with intent to dishonour person, otherwise than on grave",OF OFFENCES AFFECTING THE HUMAN BODY : Of criminal force and assault
+10134,Bharatiya Nyaya Sanhita,134,Assault or criminal force in attempt to commit theft of property carried by a person.,OF OFFENCES AFFECTING THE HUMAN BODY : Of criminal force and assault
+10135,Bharatiya Nyaya Sanhita,135,Assault or criminal force in attempt to wrongfully confine a person.,OF OFFENCES AFFECTING THE HUMAN BODY : Of criminal force and assault
+10136,Bharatiya Nyaya Sanhita,136,Assault or criminal force on grave provocation.,OF OFFENCES AFFECTING THE HUMAN BODY : Of criminal force and assault
+10137,Bharatiya Nyaya Sanhita,137,Kidnapping.,"OF OFFENCES AFFECTING THE HUMAN BODY : Of kidnapping, abduction, slavery and forced labour"
+10138,Bharatiya Nyaya Sanhita,138,Abduction.,"OF OFFENCES AFFECTING THE HUMAN BODY : Of kidnapping, abduction, slavery and forced labour"
+10139,Bharatiya Nyaya Sanhita,139,Kidnapping or maiming a child for purposes of begging.,"OF OFFENCES AFFECTING THE HUMAN BODY : Of kidnapping, abduction, slavery and forced labour"
+10140,Bharatiya Nyaya Sanhita,140,"Kidnapping or abducting in order to murder or for ransom, etc.","OF OFFENCES AFFECTING THE HUMAN BODY : Of kidnapping, abduction, slavery and forced labour"
+10141,Bharatiya Nyaya Sanhita,141,Importation of girl or boy from foreign country.,"OF OFFENCES AFFECTING THE HUMAN BODY : Of kidnapping, abduction, slavery and forced labour"
+10142,Bharatiya Nyaya Sanhita,142,"Wrongfully concealing or keeping in confinement, kidnapped or abducted person.","OF OFFENCES AFFECTING THE HUMAN BODY : Of kidnapping, abduction, slavery and forced labour"
+10143,Bharatiya Nyaya Sanhita,143,Trafficking of person.,"OF OFFENCES AFFECTING THE HUMAN BODY : Of kidnapping, abduction, slavery and forced labour"
+10144,Bharatiya Nyaya Sanhita,144,Exploitation of a trafficked person.,"OF OFFENCES AFFECTING THE HUMAN BODY : Of kidnapping, abduction, slavery and forced labour"
+10145,Bharatiya Nyaya Sanhita,145,Habitual dealing in slaves.,"OF OFFENCES AFFECTING THE HUMAN BODY : Of kidnapping, abduction, slavery and forced labour"
+10146,Bharatiya Nyaya Sanhita,146,Unlawful compulsory labour.,"OF OFFENCES AFFECTING THE HUMAN BODY : Of kidnapping, abduction, slavery and forced labour"
+10147,Bharatiya Nyaya Sanhita,147,"Waging, or attempting to wage war, or abetting waging of war, against Government of India.",OF OFFENCES AGAINST THE  STATE
+10148,Bharatiya Nyaya Sanhita,148,Conspiracy to commit offences punishable by section 147.,OF OFFENCES AGAINST THE  STATE
+10149,Bharatiya Nyaya Sanhita,149,"Collecting arms, etc., with intention of waging war against Government of India.",OF OFFENCES AGAINST THE  STATE
+10150,Bharatiya Nyaya Sanhita,150,Concealing with intent to facilitate design to wage war.,OF OFFENCES AGAINST THE  STATE
+10151,Bharatiya Nyaya Sanhita,151,"Assaulting President, Governor, etc., with intent to compel or restrain exercise of any lawful",OF OFFENCES AGAINST THE  STATE
+10152,Bharatiya Nyaya Sanhita,152,"Act endangering sovereignty, unity and integrity of India.",OF OFFENCES AGAINST THE  STATE
+10153,Bharatiya Nyaya Sanhita,153,Waging war against Government of any foreign State at peace with Government of India.,OF OFFENCES AGAINST THE  STATE
+10154,Bharatiya Nyaya Sanhita,154,Committing depredation on territories of foreign State at peace with Government of India.,OF OFFENCES AGAINST THE  STATE
+10155,Bharatiya Nyaya Sanhita,155,Receiving property taken by war or depredation mentioned in sections 153 and 154.,OF OFFENCES AGAINST THE  STATE
+10156,Bharatiya Nyaya Sanhita,156,Public servant voluntarily allowing prisoner of State or war to escape.,OF OFFENCES AGAINST THE  STATE
+10157,Bharatiya Nyaya Sanhita,157,Public servant negligently suffering such prisoner to escape.,OF OFFENCES AGAINST THE  STATE
+10158,Bharatiya Nyaya Sanhita,158,"Aiding escape of, rescuing or harbouring such prisoner.",OF OFFENCES AGAINST THE  STATE
+10159,Bharatiya Nyaya Sanhita,159,"Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty.","OF OFFENCES RELATING TO THE ARMY , NAVY AND AIR FORCE"
+10160,Bharatiya Nyaya Sanhita,160,"Abetment of mutiny, if mutiny is committed in consequence thereof.","OF OFFENCES RELATING TO THE ARMY , NAVY AND AIR FORCE"
+10161,Bharatiya Nyaya Sanhita,161,"Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of","OF OFFENCES RELATING TO THE ARMY , NAVY AND AIR FORCE"
+10162,Bharatiya Nyaya Sanhita,162,"Abetment of such assault, if assault committed.","OF OFFENCES RELATING TO THE ARMY , NAVY AND AIR FORCE"
+10163,Bharatiya Nyaya Sanhita,163,"Abetment of desertion of soldier, sailor or airman.","OF OFFENCES RELATING TO THE ARMY , NAVY AND AIR FORCE"
+10164,Bharatiya Nyaya Sanhita,164,Harbouring deserter.,"OF OFFENCES RELATING TO THE ARMY , NAVY AND AIR FORCE"
+10165,Bharatiya Nyaya Sanhita,165,Deserter concealed on board merchant vessel through negligence of master.,"OF OFFENCES RELATING TO THE ARMY , NAVY AND AIR FORCE"
+10166,Bharatiya Nyaya Sanhita,166,"Abetment of act of insubordination by soldier, sailor or airman.","OF OFFENCES RELATING TO THE ARMY , NAVY AND AIR FORCE"
+10167,Bharatiya Nyaya Sanhita,167,Persons subject to certain Acts.,"OF OFFENCES RELATING TO THE ARMY , NAVY AND AIR FORCE"
+10168,Bharatiya Nyaya Sanhita,168,"Wearing garb or carrying token used by soldier, sailor or airman.","OF OFFENCES RELATING TO THE ARMY , NAVY AND AIR FORCE"
+10169,Bharatiya Nyaya Sanhita,169,"Candidate, electoral right defined.",OF OFFENCES RELATING TO ELECTIONS
+10170,Bharatiya Nyaya Sanhita,170,Bribery.,OF OFFENCES RELATING TO ELECTIONS
+10171,Bharatiya Nyaya Sanhita,171,Undue influence at elections.,OF OFFENCES RELATING TO ELECTIONS
+10172,Bharatiya Nyaya Sanhita,172,Personation at elections.,OF OFFENCES RELATING TO ELECTIONS
+10173,Bharatiya Nyaya Sanhita,173,Punishment for bribery.,OF OFFENCES RELATING TO ELECTIONS
+10174,Bharatiya Nyaya Sanhita,174,Punishment for undue influence or personation at an election.,OF OFFENCES RELATING TO ELECTIONS
+10175,Bharatiya Nyaya Sanhita,175,False statement in connection with an election.,OF OFFENCES RELATING TO ELECTIONS
+10176,Bharatiya Nyaya Sanhita,176,Illegal payments in connection with an election.,OF OFFENCES RELATING TO ELECTIONS
+10177,Bharatiya Nyaya Sanhita,177,Failure to keep election accounts.,OF OFFENCES RELATING TO ELECTIONS
+10178,Bharatiya Nyaya Sanhita,178,"Counterfeiting coin, Government stamps, currency -notes or bank -notes.","OF OFFENCES RELATING TO COIN, CURRENCY -NOTES, BANK -NOTES, AND GOVERNMENT STAMPS"
+10179,Bharatiya Nyaya Sanhita,179,"Using as genuine, forged or counterfeit coin, Government stamp, currency -notes or","OF OFFENCES RELATING TO COIN, CURRENCY -NOTES, BANK -NOTES, AND GOVERNMENT STAMPS"
+10180,Bharatiya Nyaya Sanhita,180,"Possession of forged or counterfeit coin, Government stamp, currency -notes or bank -notes.","OF OFFENCES RELATING TO COIN, CURRENCY -NOTES, BANK -NOTES, AND GOVERNMENT STAMPS"
+10181,Bharatiya Nyaya Sanhita,181,"Making or possessing instruments or materials for forging or counterfeiting coin, Government","OF OFFENCES RELATING TO COIN, CURRENCY -NOTES, BANK -NOTES, AND GOVERNMENT STAMPS"
+10182,Bharatiya Nyaya Sanhita,182,Making or using documents resembling currency -notes or bank -notes.,"OF OFFENCES RELATING TO COIN, CURRENCY -NOTES, BANK -NOTES, AND GOVERNMENT STAMPS"
+10183,Bharatiya Nyaya Sanhita,183,"Effacing writing from substance bearing Government stamp, or removing from document a","OF OFFENCES RELATING TO COIN, CURRENCY -NOTES, BANK -NOTES, AND GOVERNMENT STAMPS"
+10184,Bharatiya Nyaya Sanhita,184,Using Government stamp known to have been before used.,"OF OFFENCES RELATING TO COIN, CURRENCY -NOTES, BANK -NOTES, AND GOVERNMENT STAMPS"
+10185,Bharatiya Nyaya Sanhita,185,Erasure of mark denoting that stamp has been used.,"OF OFFENCES RELATING TO COIN, CURRENCY -NOTES, BANK -NOTES, AND GOVERNMENT STAMPS"
+10186,Bharatiya Nyaya Sanhita,186,Prohibition of fictitious stamps.,"OF OFFENCES RELATING TO COIN, CURRENCY -NOTES, BANK -NOTES, AND GOVERNMENT STAMPS"
+10187,Bharatiya Nyaya Sanhita,187,Person employed in mint causing coin to be of different weight or composition from that fixed,"OF OFFENCES RELATING TO COIN, CURRENCY -NOTES, BANK -NOTES, AND GOVERNMENT STAMPS"
+10188,Bharatiya Nyaya Sanhita,188,Unlawfully taking coining instrument from mint.,"OF OFFENCES RELATING TO COIN, CURRENCY -NOTES, BANK -NOTES, AND GOVERNMENT STAMPS"
+10189,Bharatiya Nyaya Sanhita,189,Unlawful assembly.,OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+10190,Bharatiya Nyaya Sanhita,190,Every member of unlawful assembly guilty of offence committed in prosecution of common,OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+10191,Bharatiya Nyaya Sanhita,191,Rioting.,OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+10192,Bharatiya Nyaya Sanhita,192,Wantonly giving provocation with intent to cause riot -if rioting be committed; if not,OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+10193,Bharatiya Nyaya Sanhita,193,"Liability of owner, occupier, etc., of land on which an unlawful assembly or riot takes place.",OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+10194,Bharatiya Nyaya Sanhita,194,Affray.,OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+10195,Bharatiya Nyaya Sanhita,195,"Assaulting or obstructing public servant when suppressing riot, etc.",OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+10196,Bharatiya Nyaya Sanhita,196,"Promoting enmity between different groups on grounds of religion, race, place of birth,",OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+10197,Bharatiya Nyaya Sanhita,197,"Imputations, assertions prejudicial to national integration.",OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+10198,Bharatiya Nyaya Sanhita,198,"Public servant disobeying law, with intent to cause injury to any person.",OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+10199,Bharatiya Nyaya Sanhita,199,Public servant disobeying direction under law.,OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+10200,Bharatiya Nyaya Sanhita,200,Punishment for non -treatment of victim.,OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+10201,Bharatiya Nyaya Sanhita,201,Public servant framing an incorrect document with intent to cause injury.,OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+10202,Bharatiya Nyaya Sanhita,202,Public servant unlawfully engaging in trade.,OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+10203,Bharatiya Nyaya Sanhita,203,Public servant unlawfully buying or bidding for property.,OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+10204,Bharatiya Nyaya Sanhita,204,Personating a public servant.,OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+10205,Bharatiya Nyaya Sanhita,205,Wearing garb or carrying token used by public servant with fraudulent intent.,OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+10206,Bharatiya Nyaya Sanhita,206,Absconding to avoid service of summons or other proceeding.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10207,Bharatiya Nyaya Sanhita,207,"Preventing service of summons or other proceeding, or preventing publication thereof.",OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10208,Bharatiya Nyaya Sanhita,208,Non-attendance in obedience to an order from public servant.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10209,Bharatiya Nyaya Sanhita,209,Non-appearance in response to a proclamation under section 84 of Bharatiya Nagarik,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10210,Bharatiya Nyaya Sanhita,210,Omission to produce document or electronic record to public servant by person legally bound,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10211,Bharatiya Nyaya Sanhita,211,Omission to give notice or information to public servant by person legally bound to give it.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10212,Bharatiya Nyaya Sanhita,212,Furnishing false information.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10213,Bharatiya Nyaya Sanhita,213,Refusing oath or affirmation when duly required by public servant to make it.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10214,Bharatiya Nyaya Sanhita,214,Refusing to answer public servant authorised to question.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10215,Bharatiya Nyaya Sanhita,215,Refusing to sign statement.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10216,Bharatiya Nyaya Sanhita,216,False statement on oath or affirmation to public servant or person authorised to administer an,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10217,Bharatiya Nyaya Sanhita,217,"False information, with intent to cause public servant to use his lawful power to injury of",OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10218,Bharatiya Nyaya Sanhita,218,Resistance to taking of property by lawful authority of a public servant.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10219,Bharatiya Nyaya Sanhita,219,Obstructing sale of property offered for sale by authority of public servant.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10220,Bharatiya Nyaya Sanhita,220,Illegal purchase or bid for property offered for sale by authority of public servant.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10221,Bharatiya Nyaya Sanhita,221,Obstructing public servant in discharge of public functions.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10222,Bharatiya Nyaya Sanhita,222,Omission to assist public servant when bound by law to give assistance.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10223,Bharatiya Nyaya Sanhita,223,Disobedience to order duly promulgated by public servant.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10224,Bharatiya Nyaya Sanhita,224,Threat of injury to public servant.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10225,Bharatiya Nyaya Sanhita,225,Threat of injury to induce person to refrain from applying for protection to public servant.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10226,Bharatiya Nyaya Sanhita,226,Attempt to commit suicide to compel or restrain exercise of lawful power.,OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+10227,Bharatiya Nyaya Sanhita,227,Giving false evidence.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10228,Bharatiya Nyaya Sanhita,228,Fabricating false evidence.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10229,Bharatiya Nyaya Sanhita,229,Punishment for false evidence.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10230,Bharatiya Nyaya Sanhita,230,Giving or fabricating false evidence with intent to procure conviction of capital offence.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10231,Bharatiya Nyaya Sanhita,231,Giving or fabricating false evidence with intent to procure conviction of offence punishable,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10232,Bharatiya Nyaya Sanhita,232,Threatening any person to give false evidence.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10233,Bharatiya Nyaya Sanhita,233,Using evidence known to be false.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10234,Bharatiya Nyaya Sanhita,234,Issuing or signing false certificate.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10235,Bharatiya Nyaya Sanhita,235,Using as true a certificate known to be false.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10236,Bharatiya Nyaya Sanhita,236,False statement made in declaration which is by law receivable as evidence.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10237,Bharatiya Nyaya Sanhita,237,Using as true such declaration knowing it to be false.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10238,Bharatiya Nyaya Sanhita,238,"Causing disappearance of evidence of offence, or giving false information to screen offender.",OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10239,Bharatiya Nyaya Sanhita,239,Intentional omission to give information of offence by person bound to inform.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10240,Bharatiya Nyaya Sanhita,240,Giving false information respecting an offence committed.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10241,Bharatiya Nyaya Sanhita,241,Destruction of document or electronic record to prevent its production as evidence.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10242,Bharatiya Nyaya Sanhita,242,False personation for purpose of act or proceeding in suit or prosecution.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10243,Bharatiya Nyaya Sanhita,243,Fraudulent removal or concealment of property to prevent its seizure as forfeited or in,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10244,Bharatiya Nyaya Sanhita,244,Fraudulent claim to property to prevent its seizure as forfeited or in execution.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10245,Bharatiya Nyaya Sanhita,245,Fraudulently suffering decree for sum not due.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10246,Bharatiya Nyaya Sanhita,246,Dishonestly making false claim in Court.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10247,Bharatiya Nyaya Sanhita,247,Fraudulently obtaining decree for sum not due.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10248,Bharatiya Nyaya Sanhita,248,False charge of offence made with intent to injure.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10249,Bharatiya Nyaya Sanhita,249,Harbouring offender.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10250,Bharatiya Nyaya Sanhita,250,"Taking gift, etc., to screen an offender from punishment.",OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10251,Bharatiya Nyaya Sanhita,251,Offering gift or restoration of property in consideration of screening offender.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10252,Bharatiya Nyaya Sanhita,252,"Taking gift to help to recover stolen property, etc.",OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10253,Bharatiya Nyaya Sanhita,253,Harbouring offender who has escaped from custody or whose apprehension has been ordered.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10254,Bharatiya Nyaya Sanhita,254,Penalty for harbouring robbers or dacoits.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10255,Bharatiya Nyaya Sanhita,255,Public servant disobeying direction of law with intent to save person from punishment or,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10256,Bharatiya Nyaya Sanhita,256,Public servant framing incorrect record or writing with intent to save person from punishment,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10257,Bharatiya Nyaya Sanhita,257,"Public servant in judicial proceeding corruptly making report, etc., contrary to law.",OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10258,Bharatiya Nyaya Sanhita,258,Commitment for trial or confinement by person having authority who knows that he is acting,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10259,Bharatiya Nyaya Sanhita,259,Intentional omission to apprehend on part of public servant bound to apprehend.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10260,Bharatiya Nyaya Sanhita,260,Intentional omission to apprehend on part of public servant bound to apprehend person under,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10261,Bharatiya Nyaya Sanhita,261,Escape from confinement or custody negligently suffered by public servant.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10262,Bharatiya Nyaya Sanhita,262,Resistance or obstruction by a person to his lawful apprehension.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10263,Bharatiya Nyaya Sanhita,263,Resistance or obstruction to lawful apprehension of another person.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10264,Bharatiya Nyaya Sanhita,264,"Omission to apprehend, or sufferance of escape, on part of public servant, in cases not",OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10265,Bharatiya Nyaya Sanhita,265,Resistance or obstruction to lawful apprehension or escape or rescue in cases not otherwise,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10266,Bharatiya Nyaya Sanhita,266,Violation of condition of remission of punishment.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10267,Bharatiya Nyaya Sanhita,267,Intentional insult or interruption to public servant sitting in judicial proceeding.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10268,Bharatiya Nyaya Sanhita,268,Personation of assessor.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10269,Bharatiya Nyaya Sanhita,269,Failure by person released on bail bond or bond to appear in Court.,OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+10270,Bharatiya Nyaya Sanhita,270,Public nuisance.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10271,Bharatiya Nyaya Sanhita,271,Negligent act likely to spread infection of disease dangerous to life.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10272,Bharatiya Nyaya Sanhita,272,Malignant act likely to spread infection of disease dangerous to life.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10273,Bharatiya Nyaya Sanhita,273,Disobedience to quarantine rule.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10274,Bharatiya Nyaya Sanhita,274,Adulteration of food or drink intended for sale.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10275,Bharatiya Nyaya Sanhita,275,Sale of noxious food or drink.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10276,Bharatiya Nyaya Sanhita,276,Adulteration of drugs.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10277,Bharatiya Nyaya Sanhita,277,Sale of adulterated drugs.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10278,Bharatiya Nyaya Sanhita,278,Sale of drug as a different drug or preparation.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10279,Bharatiya Nyaya Sanhita,279,Fouling water of public spring or reservoir.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10280,Bharatiya Nyaya Sanhita,280,Making atmosphere noxious to health.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10281,Bharatiya Nyaya Sanhita,281,Rash driving or riding on a public way.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10282,Bharatiya Nyaya Sanhita,282,Rash navigation of vessel.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10283,Bharatiya Nyaya Sanhita,283,"Exhibition of false light, mark or buoy.","OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10284,Bharatiya Nyaya Sanhita,284,Conveying person by water for hire in unsafe or overloaded vessel.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10285,Bharatiya Nyaya Sanhita,285,Danger or obstruction in public way or line of navigation.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10286,Bharatiya Nyaya Sanhita,286,Negligent conduct with respect to poisonous substance.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10287,Bharatiya Nyaya Sanhita,287,Negligent conduct with respect to fire or combustible matter.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10288,Bharatiya Nyaya Sanhita,288,Negligent conduct with respect to explosive substance.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10289,Bharatiya Nyaya Sanhita,289,Negligent conduct with respect to machinery.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10290,Bharatiya Nyaya Sanhita,290,"Negligent conduct with respect to pulling down, repairing or constructing buildings, etc.","OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10291,Bharatiya Nyaya Sanhita,291,Negligent conduct with respect to animal.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10292,Bharatiya Nyaya Sanhita,292,Punishment for public nuisance in cases not otherwise provided for.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10293,Bharatiya Nyaya Sanhita,293,Continuance of nuisance after injunction to discontinue.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10294,Bharatiya Nyaya Sanhita,294,"Sale, etc., of obscene books, etc.","OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10295,Bharatiya Nyaya Sanhita,295,"Sale, etc., of obscene objects to child.","OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10296,Bharatiya Nyaya Sanhita,296,Obscene acts and songs.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10297,Bharatiya Nyaya Sanhita,297,Keeping lottery office.,"OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY , CONVENIENCE, DECENCY  AND MORALS"
+10298,Bharatiya Nyaya Sanhita,298,Injuring or defiling place of worship with intent to insult religion of any class.,OF OFFENCES RELATING TO RELIGION
+10299,Bharatiya Nyaya Sanhita,299,"Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting",OF OFFENCES RELATING TO RELIGION
+10300,Bharatiya Nyaya Sanhita,300,Disturbing religious assembly.,OF OFFENCES RELATING TO RELIGION
+10301,Bharatiya Nyaya Sanhita,301,"Trespassing on burial places, etc.",OF OFFENCES RELATING TO RELIGION
+10302,Bharatiya Nyaya Sanhita,302,"Uttering words, etc., with deliberate intent to wound religious feelings of any person.",OF OFFENCES RELATING TO RELIGION
+10303,Bharatiya Nyaya Sanhita,303,Theft,OF OFFENCES AGAINST PROPERTY : Of theft
+10304,Bharatiya Nyaya Sanhita,304,Snatching.,OF OFFENCES AGAINST PROPERTY : Of theft
+10305,Bharatiya Nyaya Sanhita,305,"Theft in a dwelling house, or means of transportation or place of worship, etc.",OF OFFENCES AGAINST PROPERTY : Of theft
+10306,Bharatiya Nyaya Sanhita,306,Theft by clerk or servant of property in possession of master.,OF OFFENCES AGAINST PROPERTY : Of theft
+10307,Bharatiya Nyaya Sanhita,307,"Theft after preparation made for causing death, hurt or restraint in order to committing of theft.",OF OFFENCES AGAINST PROPERTY : Of theft
+10308,Bharatiya Nyaya Sanhita,308,Extortion.,OF OFFENCES AGAINST PROPERTY : Of extortion
+10309,Bharatiya Nyaya Sanhita,309,Robbery.,OF OFFENCES AGAINST PROPERTY : Of robbery and dacoity
+10310,Bharatiya Nyaya Sanhita,310,Dacoity.,OF OFFENCES AGAINST PROPERTY : Of robbery and dacoity
+10311,Bharatiya Nyaya Sanhita,311,"Robbery, or dacoity, with attempt to cause death or grievous hurt.",OF OFFENCES AGAINST PROPERTY : Of robbery and dacoity
+10312,Bharatiya Nyaya Sanhita,312,Attempt to commit robbery or dacoity when armed with deadly weapon.,OF OFFENCES AGAINST PROPERTY : Of robbery and dacoity
+10313,Bharatiya Nyaya Sanhita,313,"Punishment for belonging to gang of robbers, etc.",OF OFFENCES AGAINST PROPERTY : Of robbery and dacoity
+10314,Bharatiya Nyaya Sanhita,314,Dishonest misappropriation of property.,OF OFFENCES AGAINST PROPERTY : Of criminal misappropriation of property
+10315,Bharatiya Nyaya Sanhita,315,Dishonest misappropriation of property possessed by deceased person at the time of his death.,OF OFFENCES AGAINST PROPERTY : Of criminal misappropriation of property
+10316,Bharatiya Nyaya Sanhita,316,Criminal breach of trust.,OF OFFENCES AGAINST PROPERTY : Of criminal breach of trust
+10317,Bharatiya Nyaya Sanhita,317,Stolen property.,OF OFFENCES AGAINST PROPERTY : Of receiving stolen property
+10318,Bharatiya Nyaya Sanhita,318,Cheating.,OF OFFENCES AGAINST PROPERTY : Of cheating
+10319,Bharatiya Nyaya Sanhita,319,Cheating by personation.,OF OFFENCES AGAINST PROPERTY : Of cheating
+10320,Bharatiya Nyaya Sanhita,320,Dishonest or fraudulent removal or concealment of property to prevent distribution among,OF OFFENCES AGAINST PROPERTY : Of fraudulent deeds and dispositions of property
+10321,Bharatiya Nyaya Sanhita,321,Dishonestly or fraudulently preventing debt being available for creditors.,OF OFFENCES AGAINST PROPERTY : Of fraudulent deeds and dispositions of property
+10322,Bharatiya Nyaya Sanhita,322,Dishonest or fraudulent execution of deed of transfer containing false statement of,OF OFFENCES AGAINST PROPERTY : Of fraudulent deeds and dispositions of property
+10323,Bharatiya Nyaya Sanhita,323,Dishonest or fraudulent removal or concealment of property.,OF OFFENCES AGAINST PROPERTY : Of fraudulent deeds and dispositions of property
+10324,Bharatiya Nyaya Sanhita,324,Mischief.,OF OFFENCES AGAINST PROPERTY : Of mischief
+10325,Bharatiya Nyaya Sanhita,325,Mischief by killing or maiming animal.,OF OFFENCES AGAINST PROPERTY : Of mischief
+10326,Bharatiya Nyaya Sanhita,326,"Mischief by injury, inundation, fire or explosive substance, etc.",OF OFFENCES AGAINST PROPERTY : Of mischief
+10327,Bharatiya Nyaya Sanhita,327,"Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty",OF OFFENCES AGAINST PROPERTY : Of mischief
+10328,Bharatiya Nyaya Sanhita,328,"Punishment for intentionally running vessel aground or ashore with intent to commit theft,",OF OFFENCES AGAINST PROPERTY : Of mischief
+10329,Bharatiya Nyaya Sanhita,329,Criminal trespass and house -trespass.,OF OFFENCES AGAINST PROPERTY : Of criminal trespass
+10330,Bharatiya Nyaya Sanhita,330,House -trespass and house -breaking .,OF OFFENCES AGAINST PROPERTY : Of criminal trespass
+10331,Bharatiya Nyaya Sanhita,331,Punishment for house -trespass or house -breaking.,OF OFFENCES AGAINST PROPERTY : Of criminal trespass
+10332,Bharatiya Nyaya Sanhita,332,House -trespass in order to commit offence.,OF OFFENCES AGAINST PROPERTY : Of criminal trespass
+10333,Bharatiya Nyaya Sanhita,333,"House -trespass after preparation for hurt, assault or wrongful restraint.",OF OFFENCES AGAINST PROPERTY : Of criminal trespass
+10334,Bharatiya Nyaya Sanhita,334,Dishonestly breaking open receptacle containing property.,OF OFFENCES AGAINST PROPERTY : Of criminal trespass
+10335,Bharatiya Nyaya Sanhita,335,Making a false document,OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+10336,Bharatiya Nyaya Sanhita,336,Forgery.,OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+10337,Bharatiya Nyaya Sanhita,337,"Forgery of record of Court or of public register, etc.",OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+10338,Bharatiya Nyaya Sanhita,338,"Forgery of valuable security, will, etc.",OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+10339,Bharatiya Nyaya Sanhita,339,"Having possession of document described in section 337 or section 338, knowing it to be",OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+10340,Bharatiya Nyaya Sanhita,340,Forged document or electronic record and using it as genuine.,OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+10341,Bharatiya Nyaya Sanhita,341,"Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under",OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+10342,Bharatiya Nyaya Sanhita,342,"Counterfeiting device or mark used for authenticating documents described in section 338, or",OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+10343,Bharatiya Nyaya Sanhita,343,"Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security.",OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+10344,Bharatiya Nyaya Sanhita,344,Falsification of accounts.,OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+10345,Bharatiya Nyaya Sanhita,345,Property mark.,OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS : Of property marks
+10346,Bharatiya Nyaya Sanhita,346,Tampering with property mark with intent to cause injury.,OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS : Of property marks
+10347,Bharatiya Nyaya Sanhita,347,Counterfeiting a property mark.,OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS : Of property marks
+10348,Bharatiya Nyaya Sanhita,348,Making or possession of any instrument for counterfeiting a property mark.,OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS : Of property marks
+10349,Bharatiya Nyaya Sanhita,349,Selling goods marked with a counterfeit property mark.,OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS : Of property marks
+10350,Bharatiya Nyaya Sanhita,350,Making a false mark upon any receptacle containing goods.,OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS : Of property marks
+10351,Bharatiya Nyaya Sanhita,351,Criminal intimidation.,"OF CRIMINAL INTIMIDATION, INSULT, ANNOYANCE, DEFAMATION, ETC"
+10352,Bharatiya Nyaya Sanhita,352,Intentional insult with intent to provoke breach of peace.,"OF CRIMINAL INTIMIDATION, INSULT, ANNOYANCE, DEFAMATION, ETC"
+10353,Bharatiya Nyaya Sanhita,353,Statements conducing to public mischief.,"OF CRIMINAL INTIMIDATION, INSULT, ANNOYANCE, DEFAMATION, ETC"
+10354,Bharatiya Nyaya Sanhita,354,Act caused by inducing person to believe that he will be rendered an object of Divine,"OF CRIMINAL INTIMIDATION, INSULT, ANNOYANCE, DEFAMATION, ETC"
+10355,Bharatiya Nyaya Sanhita,355,Misconduct in public by a drunken person.,"OF CRIMINAL INTIMIDATION, INSULT, ANNOYANCE, DEFAMATION, ETC"
+10356,Bharatiya Nyaya Sanhita,356,Defamation.,"OF CRIMINAL INTIMIDATION, INSULT, ANNOYANCE, DEFAMATION, ETC : Of defamation"
+10357,Bharatiya Nyaya Sanhita,357,Breach of contract to attend on and supply wants of helpless person.,"OF CRIMINAL INTIMIDATION, INSULT, ANNOYANCE, DEFAMATION, ETC : Of breach of contract to attend on and supply wants of helpless person"
+10358,Bharatiya Nyaya Sanhita,358,Repeal and savings.,REPEAL AND SAVINGS
